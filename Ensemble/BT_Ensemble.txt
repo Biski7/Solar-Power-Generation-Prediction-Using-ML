@@ -1,0 +1,8 @@
+ROC AUC: 0.96 (+/- 0.01) [Logistic regression]
+
+ROC AUC: 0.96 (+/- 0.01) [SVM]
+
+ROC AUC: 0.93 (+/- 0.01) [Decision tree]
+
+ROC AUC: 0.96 (+/- 0.01) [Majority voting - ArgMax]
+

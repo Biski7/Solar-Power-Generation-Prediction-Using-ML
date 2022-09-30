@@ -1,0 +1,9 @@
+Best Score 0.71128
+Best Param C 10.00000: 
+Training Accuracy: 0.71230
+Test Accuracy: 0.71003
+Recall: 0.71509 
+Precision: 0.71309
+f1_score: 0.71024
+*****************************************************************
+

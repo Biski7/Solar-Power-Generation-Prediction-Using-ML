@@ -1,0 +1,11 @@
+Best Score: 0.89
+Best Param C: 100.00000 
+Best Param kernel: rbf 
+Best Param gamma: 1000.00000 
+Training Accuracy: 0.99932
+Test Accuracy: 0.87669
+Recall: 0.70445 
+Precision: 0.70355
+f1_score: 0.70086
+*****************************************************************
+

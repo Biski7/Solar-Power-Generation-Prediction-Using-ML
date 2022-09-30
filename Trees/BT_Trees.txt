@@ -1,0 +1,10 @@
+Best Score: 0.89257
+Best Param max depth: 20.00000 
+Best Param criterion: gini 
+Training Accuracy: 0.99221
+Test Accuracy: 0.86450
+Recall: 0.71792 
+Precision: 0.72147
+f1_score: 0.71825
+*****************************************************************
+

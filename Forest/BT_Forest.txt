@@ -1,0 +1,10 @@
+Best Score: 0.90410
+Best Param number of estimators: 24.00000 
+Best Param criterion: gini 
+Training Accuracy: 0.99898
+Test Accuracy: 0.92818
+Recall: 0.76748 
+Precision: 0.76637
+f1_score: 0.76653
+*****************************************************************
+
